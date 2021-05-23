@@ -61,6 +61,7 @@ form {
 
 .questions {
     margin: 45px auto 55px;
+    max-width: -moz-fit-content;
     max-width: fit-content;
 }
 
